@@ -1,0 +1,17 @@
+{
+  "name": "koa2-socketio",
+  "version": "1.0.0",
+  "description": "test socketio in koa2",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leon",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.3.0",
+    "koa-static": "^4.0.1",
+    "socket.io": "^2.0.4"
+  }
+}
